@@ -1,0 +1,43 @@
+{
+  "name": "tsassure",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "keywords": [
+    "typescript",
+    "testing",
+    "utilities",
+    "mock",
+    "assertion",
+    "generator",
+    "test data",
+    "testing framework",
+    "jest",
+    "mocha",
+    "jasmine",
+    "testing utilities",
+    "integration testing",
+    "unit testing",
+    "test helpers",
+    "development",
+    "npm",
+    "package",
+    "library"
+  ],
+  "author": "0xsarwagya",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "homepage": "https://github.com/0xsarwagya/TSAssure.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xsarwagya/TSAssure.git"
+  },
+  "types": "./index.d.ts",
+  "description": "TSAssure is a TypeScript testing utility package designed to assist developers in writing comprehensive and reliable tests for their TypeScript projects. It provides a collection of functions for mocking dependencies, generating test data, and asserting conditions, making it easier to write effective tests."
+}
