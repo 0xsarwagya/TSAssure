@@ -1,3 +1,5 @@
+<img src="/.github/logo.png" alt="LOGO" width=250 valign="middle"></a>
+
 # TSAssure
 
 TSAssure is a TypeScript testing utility package designed to assist developers in writing comprehensive and reliable tests for their TypeScript projects. It provides a collection of functions for mocking dependencies, generating test data, and asserting conditions, making it easier to write effective tests.
@@ -9,7 +11,6 @@ You can install TSAssure via npm:
 ```bash
 npm install tsassure --save-dev
 ```
-````
 
 ## Usage
 
